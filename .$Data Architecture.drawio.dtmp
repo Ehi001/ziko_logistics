@@ -753,12 +753,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ng28ceOTC0aCT_bxKxqK" name="Page-3">
-    <mxGraphModel dx="1153" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="332" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1CnUznlijMFWVMwFv6rv-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;" vertex="1" parent="1">
-          <mxGeometry x="235" y="40" width="765" height="700" as="geometry" />
+          <mxGeometry x="245" y="40" width="765" height="700" as="geometry" />
         </mxCell>
         <mxCell id="1CnUznlijMFWVMwFv6rv-2" value="ziko_logistics" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="540" y="130" width="180" height="570" as="geometry">
